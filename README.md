@@ -15,4 +15,4 @@ demonstration of how to create a remote repository on Github for Biol/Chem 806
 2.  In RStudio, create a new project, and select "Version Control"
 3.  Paste the URL for the repository, and select a local directory to clone the repository to
 
-Great job, Nicole!
+Now we are ready for the next step, each person making changes to their shared repo.
