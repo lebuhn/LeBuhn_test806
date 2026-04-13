@@ -1,19 +1,31 @@
 ---
-title: "BIO/CHEM 806 - GitHub Pages Example"
+title: "BIO/CHEM 806 – GitHub Pages Example"
 format: html
 ---
 
 # Welcome
 
-This is my GitHub Pages for Bio/Chem 806.
+This is my GitHub Pages site for BIO/CHEM 806.
 
-This page serves as a landing page for my course analyses
+This page serves as a landing page for my course analyses.
 
 ---
 
 # Project Description
 
+In this repository, I explore ecological datasets using reproducible workflows in R and Quarto.  
+Each analysis below is rendered as an HTML document and linked here for easy access.
 
 ---
 
 # Analyses
+
+- [Introduction to Quarto](intro-to-qmd.html)
+- [Data Cleaning](data-cleaning.html)
+
+---
+
+# Notes
+
+- All files are rendered using Quarto
+- Analyses are reproducible and version-controlled via GitHub
